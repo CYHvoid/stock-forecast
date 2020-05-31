@@ -1,2 +1,2 @@
 # stock-forecast
-A tiny attempt
+A tiny attempts to predict future price trends of stocks.
